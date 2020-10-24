@@ -1,0 +1,23 @@
+INSERT INTO User VALUES(101, sysdate(), 'AB');
+INSERT INTO User VALUES(102, sysdate(), 'BC');
+INSERT INTO User VALUES(103, sysdate(), 'CD');
+INSERT INTO User VALUES(104, sysdate(), 'EF');
+INSERT INTO User VALUES(105, sysdate(), 'GH');
+INSERT INTO User VALUES(106, sysdate(), 'IJ');
+INSERT INTO User VALUES(107, sysdate(), 'KL');
+INSERT INTO User VALUES(108, sysdate(), 'MN');
+INSERT INTO User VALUES(109, sysdate(), 'OP');
+INSERT INTO User VALUES(110, sysdate(), 'QR');
+INSERT INTO User VALUES(111, sysdate(), 'ST');
+
+INSERT INTO Post VALUES(101, 'AB Post is the AB D', 101);
+INSERT INTO Post VALUES(102, 'AB Post is the BC D', 102);
+INSERT INTO Post VALUES(103, 'AB Post is the CD D', 103);
+INSERT INTO Post VALUES(104, 'AB Post is the EF D', 104);
+INSERT INTO Post VALUES(105, 'AB Post is the GH D', 105);
+INSERT INTO Post VALUES(106, 'AB Post is the IJ D', 106);
+INSERT INTO Post VALUES(107, 'AB Post is the KL D', 107);
+INSERT INTO Post VALUES(108, 'AB Post is the MN D', 108);
+INSERT INTO Post VALUES(109, 'AB Post is the OP D', 109);
+INSERT INTO Post VALUES(110, 'AB Post is the QR D', 110);
+INSERT INTO Post VALUES(111, 'AB Post is the ST D', 111);
